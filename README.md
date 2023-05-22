@@ -9,19 +9,23 @@
  ##
  
 <div style="display: inline_block"><br>
+  <img align="center" alt="Laravel" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  
+  <img align="center" alt="Javascript" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  
   <img align="center" alt="HTML5" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="CSS" height="35" width="45"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Javascript" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Docker" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   
   <img align="center" alt="Bootstrap" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  
-  <img align="center" alt="JQuery" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   
   <img align="center" alt="PHP" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   
   <img align="center" alt="NodeJS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  
+  <img align="center" alt="JQuery" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
 </div>
   
  ##
