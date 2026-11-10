@@ -19,7 +19,7 @@
 
 ## A little about me
 
-I'm a web developer who mainly works with **PHP, Laravel, and React**. I'm especially interested in backend development, APIs, and the less visible—but equally important—parts of an application: architecture, security, and scalability.
+I'm a web developer who mainly works with **PHP, Laravel, and React**. I'm especially interested in backend development, APIs, and the less visible - but equally important - parts of an application: architecture, security, and scalability.
 
 I'm currently studying systems architecture, AI engineering, and DevOps, applying this knowledge to real-world projects that may - or may not - be available on this profile.
 
